@@ -11,7 +11,13 @@ function App() {
 
   const addValue = () => {
     // console.log("clicked", counter);
-    // counter += 1;
+    // counter += 1; 
+    // Interview question :-
+    // setCounter(counter+1)
+    // setCounter(counter+1)
+    // setCounter(counter+1)
+    // setCounter(counter+1)
+    // setCounter(counter+1) // Tell the output
     if(counter>=20) setCounter(20)
     else setCounter(counter+1)
 
