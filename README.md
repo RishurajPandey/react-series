@@ -1,2 +1,2 @@
 # react-series
-A react series from chai aur code ytube channel
+A react series for personal projects and testing.
